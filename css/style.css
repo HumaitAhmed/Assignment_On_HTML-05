@@ -1,0 +1,48 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+	border: 5px solid lime;
+}
+.blog{
+	float: right;
+	width: 55%;
+	height: 120px;
+	background-color: green;
+	border-left: 10em solid magenta;
+	box-sizing: border-box;
+}
+
+.contact{
+	float: left;
+	width: 45%;
+	height: 120px;
+	background-color: blue;    
+}
+
+.wrapper{
+	overflow: hidden;
+	border: 10px solid brown;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 120px;
+}
+.purple{
+	background-color: purple;
+}
+.skyblue{
+	background-color: skyblue;
+}
+.orange{
+	background-color: orange;
+}
+
+.footer{
+	overflow: hidden;
+	height: 100px;
+	background-color:  magenta;
+}
